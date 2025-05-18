@@ -1,14 +1,14 @@
-# Airbnb Price Prediction & Customer Churn Prediction 📊
+# Airbnb Price Prediction & Customer Churn Prediction
 
-## 📑 Project Overview
+##Project Overview
 
 This repository contains two **Machine Learning Projects**:  
-1️⃣ **Airbnb Price Prediction** — A regression project predicting the price of Airbnb listings based on features like property type, room type, location, amenities, and host details.  
-2️⃣ **Customer Churn Prediction** — A classification project predicting whether a customer will churn based on demographic, account, and service-related data.
+**Airbnb Price Prediction** — A regression project predicting the price of Airbnb listings based on features like property type, room type, location, amenities, and host details.  
+**Customer Churn Prediction** — A classification project predicting whether a customer will churn based on demographic, account, and service-related data.
 
 ---
 
-## 📂 Project Structure
+##Project Structure
 
 ```
 Airbnb-and-Customer-Churn-ML-Project/
@@ -25,11 +25,11 @@ Airbnb-and-Customer-Churn-ML-Project/
 
 ---
 
-## ✅ Project 1: Airbnb Price Prediction
+## Project 1: Airbnb Price Prediction
 ### Goal  
 Build a **regression model** to predict the price of Airbnb listings and provide insights to hosts for better pricing strategies.
 
-### Techniques Used  
+### Methods Applied  
 - Data Cleaning & Preprocessing
 - Feature Engineering (e.g., neighborhood popularity score, amenities count)
 - Regression Models: Linear Regression, Random Forest, XGBoost
@@ -43,11 +43,11 @@ Build a **regression model** to predict the price of Airbnb listings and provide
 
 ---
 
-## ✅ Project 2: Customer Churn Prediction
+##Project 2: Customer Churn Prediction
 ### Goal  
 Build a **classification model** to predict whether a telecom customer will churn based on their account, service, and demographic data.
 
-### Techniques Used  
+### Methods Applied  
 - Data Cleaning & Preprocessing
 - Feature Engineering & Encoding
 - Classification Model: Random Forest (with GridSearch Tuning)
@@ -61,7 +61,7 @@ Build a **classification model** to predict whether a telecom customer will chur
 
 ---
 
-## 📊 Model Performance Summary
+##Model Performance Summary
 
 | Project | Model | Key Metric | Score |
 |---|---|---|---|
@@ -70,29 +70,14 @@ Build a **classification model** to predict whether a telecom customer will chur
 
 ---
 
-## 💻 Tools & Libraries
+## Libraries & Tools
 - Python
 - Pandas, NumPy, Seaborn, Matplotlib
 - Scikit-learn, XGBoost
 - Jupyter Notebook
 
----
 
-## 👨‍💻 Author
-- Himanshu Jagga
-- https://www.linkedin.com/in/himanshu-jagga-b08ab6170/
-
----
-
-## ⭐️ How to Run the Project
-1. Clone the repository.
-2. Open the **Jupyter Notebooks** inside `Airbnb/` and `CustomerChurn/`.
-3. Run all the cells to see the analysis and model development step-by-step.
-4. Datasets are already included inside the folders.
-
----
-
-## 📢 Recommendations (Key Takeaways for Businesses)
+## Recommendations (Key Takeaways for Businesses)
 
 ### For Airbnb Hosts
 - Focus on **amenities, location, and host responsiveness** to increase price.
@@ -102,10 +87,3 @@ Build a **classification model** to predict whether a telecom customer will chur
 - Target customers with high monthly charges and low tenure for loyalty offers.
 - Encourage automatic payments to reduce churn risk.
 - Focus retention campaigns on fiber optic users who are more likely to churn.
-
----
-
-## 📬 Contact Me
-Feel free to reach out if you have any questions or suggestions!
-
----
