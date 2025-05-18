@@ -1,6 +1,6 @@
 # Airbnb Price Prediction & Customer Churn Prediction
 
-##Project Overview
+Project Overview
 
 This repository contains two **Machine Learning Projects**:  
 **Airbnb Price Prediction** — A regression project predicting the price of Airbnb listings based on features like property type, room type, location, amenities, and host details.  
