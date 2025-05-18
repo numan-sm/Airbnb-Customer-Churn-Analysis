@@ -8,7 +8,7 @@ This repository contains two **Machine Learning Projects**:
 
 ---
 
-##Project Structure
+Project Structure
 
 ```
 Airbnb-and-Customer-Churn-ML-Project/
@@ -43,7 +43,7 @@ Build a **regression model** to predict the price of Airbnb listings and provide
 
 ---
 
-##Project 2: Customer Churn Prediction
+Project 2: Customer Churn Prediction
 ### Goal  
 Build a **classification model** to predict whether a telecom customer will churn based on their account, service, and demographic data.
 
@@ -61,7 +61,7 @@ Build a **classification model** to predict whether a telecom customer will chur
 
 ---
 
-##Model Performance Summary
+Model Performance Summary
 
 | Project | Model | Key Metric | Score |
 |---|---|---|---|
